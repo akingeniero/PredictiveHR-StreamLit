@@ -65,3 +65,9 @@ The second script showcases how to use Streamlit to create a web application tha
 - **Setting Up the Web Page:** Configuring the page title, layout, and sidebar through Streamlit functions.
 - **User Input:** Using sidebar widgets to collect user input which is then transformed and fed to the loaded model for prediction.
 - **Displaying Predictions:** Showcasing the model's prediction and probability in an easy-to-understand format on the web page.
+
+### Project Overview
+
+![Project Overview](Readmeimage.png)
+
+The image above showcases the final appearance of our data-driven web application project using Streamlit and an AI model. It illustrates the interactive web interface that users will interact with. This interface allows users to modify input data through various input widgets. Upon changing the data, Streamlit efficiently updates the predictions and any related visualizations in real-time, demonstrating the power and flexibility of Streamlit for building AI-powered applications. This seamless integration between user inputs and model predictions highlights the core functionality of our project, providing an intuitive and engaging user experience.
