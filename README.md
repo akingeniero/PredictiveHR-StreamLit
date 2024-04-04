@@ -64,9 +64,10 @@ The second script showcases how to use Streamlit to create a web application tha
 
 - **Setting Up the Web Page:** Configuring the page title, layout, and sidebar through Streamlit functions.
 - **User Input:** Using sidebar widgets to collect user input which is then transformed and fed to the loaded model for prediction.
-- **Displaying Predictions:** Showcasing the model's prediction and probability in an easy-to-understand format on the web page.
+- **Displaying Predictions:** Showcasing the model's prediction and probability in an easy-to-understand format on the web page. 
 
 ### Project Overview
+
 
 ![Project Overview](ReadmeImage.png)
 
